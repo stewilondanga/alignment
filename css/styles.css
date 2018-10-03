@@ -179,11 +179,11 @@ body {
   opacity: .75;
 }
 
-/*.info a {
+.info a {
   color: inherit;
 }
 
-.info .left {
+/*.info .left {
   padding-top: 1em;
 }
 
