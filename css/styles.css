@@ -95,12 +95,12 @@ body {
   --i2: 1;
 }
 
-/*.icon[data-state="1"], .align-radio[value="1"]:checked~.icon {
+.icon[data-state="1"], .align-radio[value="1"]:checked~.icon {
   --i1: 1;
   --i2: 1;
 }
 
-.icon[data-state="2"], .align-radio[value="2"]:checked~.icon {
+/*.icon[data-state="2"], .align-radio[value="2"]:checked~.icon {
   --i1: 1;
   --i2: 0;
 }
