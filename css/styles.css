@@ -53,7 +53,7 @@ body {
   height: 1.5em;
 }
 
-/*.align-unit {
+.align-unit {
   position: relative;
   display: flex;
   align-items: center;
@@ -68,7 +68,7 @@ body {
   transition: transform .6s, -webkit-transform .6s;
 }
 
-.align-unit:active {
+/*.align-unit:active {
   -webkit-transform: scale(0.98);
   transform: scale(0.98);
 }
