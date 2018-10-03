@@ -120,11 +120,11 @@ body {
   transition-delay: var(--delay);
 }
 
-/*.l::before {
+.l::before {
   flex-grow: var(--i1);
 }
 
-.l::after {
+/*.l::after {
   flex-grow: var(--i2);
 }
 
