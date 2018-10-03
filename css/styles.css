@@ -74,13 +74,13 @@
   width: 100%;
 }
 
-/*.l::before, .l::after {
+.l::before, .l::after {
   content: '';
   transition: .75s flex-grow;
   transition-delay: var(--delay);
 }
 
-.l::before {
+/*.l::before {
   flex-grow: var(--i1);
 }
 
