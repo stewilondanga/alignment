@@ -84,11 +84,11 @@
   flex-grow: var(--i1);
 }
 
-/*.l::after {
+.l::after {
   flex-grow: var(--i2);
 }
 
-.l:nth-of-type(1) {
+/*.l:nth-of-type(1) {
   --delay: 0s;
 }
 
