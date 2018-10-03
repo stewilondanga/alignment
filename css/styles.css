@@ -132,11 +132,11 @@ body {
   --delay: 0s;
 }
 
-/*.l:nth-of-type(2) {
+.l:nth-of-type(2) {
   --delay: .08s;
 }
 
-.l:nth-of-type(3) {
+/*.l:nth-of-type(3) {
   --delay: .16s;
 }
 
