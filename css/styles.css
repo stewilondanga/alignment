@@ -105,11 +105,11 @@ body {
   --i2: 0;
 }
 
-/*.icon:nth-of-type(4) {
+.icon:nth-of-type(4) {
   color: #000;
 }
 
-.l {
+/*.l {
   display: flex;
   width: 100%;
 }
