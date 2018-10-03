@@ -113,14 +113,14 @@
   width: 20px;
 }
 
-/*.align-radio {
+.align-radio {
   width: 90px;
   height: 90px;
   opacity: 0;
   cursor: pointer;
 }
 
-.box {
+/*.box {
   display: flex;
   flex: 1;
   flex-direction: column;
