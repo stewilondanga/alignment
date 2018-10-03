@@ -160,7 +160,7 @@ body {
   cursor: pointer;
 }
 
-/*.box {
+.box {
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -169,7 +169,7 @@ body {
   padding-bottom: 3em;
 }
 
-
+/*
 
 .info {
   margin: auto 0 0;
