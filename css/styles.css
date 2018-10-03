@@ -183,11 +183,11 @@ body {
   color: inherit;
 }
 
-/*.info .left {
+.info .left {
   padding-top: 1em;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
