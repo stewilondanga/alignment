@@ -28,7 +28,7 @@ body {
   font-family: serif;
 }
 
-/*.intro small {
+.intro small {
   display: block;
   text-align: right;
   opacity: .3;
@@ -38,7 +38,7 @@ body {
   border-top: 1px dashed;
 }
 
-.my_social {
+/*.my_social {
   position: absolute;
   top: 25px;
   left: 25px;
