@@ -140,7 +140,7 @@ body {
   --delay: .16s;
 }
 
-/*.s {
+.s {
   width: 40px;
   height: 6px;
   -webkit-transform: scaleY(0.75);
@@ -149,7 +149,7 @@ body {
   border-radius: 1em;
 }
 
-.l:nth-of-type(3) .s {
+/*.l:nth-of-type(3) .s {
   width: 20px;
 }
 
