@@ -120,7 +120,7 @@
   cursor: pointer;
 }
 
-/*.box {
+.box {
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -129,7 +129,7 @@
   padding-bottom: 3em;
 }
 
-*, *::before, *::after {
+/**, *::before, *::after {
   margin: 0;
   box-sizing: border-box;
 }
