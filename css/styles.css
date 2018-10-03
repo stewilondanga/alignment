@@ -73,7 +73,7 @@ body {
   transform: scale(0.98);
 }
 
-/*.icon {
+.icon {
   --i1: 0;
   --i2: 1;
   position: absolute;
@@ -90,7 +90,7 @@ body {
   pointer-events: none;
 }
 
-.icon[data-state="0"], .align-radio[value="0"]:checked~.icon {
+/*.icon[data-state="0"], .align-radio[value="0"]:checked~.icon {
   --i1: 0;
   --i2: 1;
 }
