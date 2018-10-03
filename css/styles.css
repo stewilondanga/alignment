@@ -16,7 +16,7 @@ body {
   background: #f1f1f1;
 }
 
-/*.intro {
+.intro {
   width: 90%;
   max-width: 50rem;
   padding-top: .5em;
@@ -28,7 +28,7 @@ body {
   font-family: serif;
 }
 
-.intro small {
+/*.intro small {
   display: block;
   text-align: right;
   opacity: .3;
