@@ -149,11 +149,11 @@ body {
   border-radius: 1em;
 }
 
-/*.l:nth-of-type(3) .s {
+.l:nth-of-type(3) .s {
   width: 20px;
 }
 
-.align-radio {
+/*.align-radio {
   width: 90px;
   height: 90px;
   opacity: 0;
